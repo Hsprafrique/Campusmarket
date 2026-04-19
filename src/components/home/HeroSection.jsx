@@ -90,7 +90,7 @@ export default function HeroSection() {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-orange-500 to-purple-500 rounded-3xl blur-2xl opacity-30" />
               {/* ── HERO IMAGE ── Change this URL to your own image ── */}
-              <img src="/camphero"
+              <img src="/camphero.jpg"
                 alt="Students" className="relative rounded-3xl shadow-2xl w-full object-cover" />
               <motion.div animate={{ y: [0, -10, 0] }} transition={{ duration: 3, repeat: Infinity }}
                 className="absolute -bottom-6 -left-6 bg-white rounded-2xl p-4 shadow-xl">

@@ -1,6 +1,6 @@
 # Campus Deal Spot — Supabase Edition
 
-A campus marketplace for Nigerian students, fully migrated from base44 to Supabase.
+A campus marketplace for Nigerian students, fully Supabase.
 
 ---
 
